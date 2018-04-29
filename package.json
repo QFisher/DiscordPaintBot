@@ -1,0 +1,22 @@
+{
+  "name": "paintbot",
+  "version": "1.0.0",
+  "description": "Automates MS Paint Night (Written in JavaScript)",
+  "main": "paint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFisher/DiscordPaintBot.git"
+  },
+  "author": "Quinn Fisher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFisher/DiscordPaintBot/issues"
+  },
+  "homepage": "https://github.com/QFisher/DiscordPaintBot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
